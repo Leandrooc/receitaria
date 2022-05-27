@@ -1,5 +1,5 @@
 # 🚧 README em construção 🚧
-
+Projeto feito para celulares, resolução ideal: 360 x 640
 <!-- Olá, Tryber!
 
 Esse é apenas um arquivo inicial para o README do seu projeto.
